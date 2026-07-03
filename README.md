@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, soy Keylor Chavarria</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Costa Rica</h3>
+<h1 align="center"> Keylor Chavarria</h1>
+<h3 align="center">Un apasionado desarrollador de Costa Rica</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
